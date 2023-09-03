@@ -1,0 +1,22 @@
+@import "_fonts.css";
+@import "_variables.css";
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--clearGrey);
+  font-family: 'Albert Sans', sans-serif;
+}
+
+.container {
+  max-width: 69ch;
+  margin: 0 auto;
+}
+
+ul {
+  padding: 0;
+}

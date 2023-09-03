@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Albert Sans";
+  src: url("../fonts/albertsans.woff2") format("woff2"),
+    url("../fonts/albertsans.woff") format("woff");
+}

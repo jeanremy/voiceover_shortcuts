@@ -1,0 +1,112 @@
+[
+  {
+    "label": "VO key",
+    "shortcut": ["Command", "Option"],
+    "laptopShortcut": ["Command", "fn", "Option"]
+  },
+  {
+    "label": "Launch / Stop VoiceOver",
+    "shortcut": ["Command", "F5"],
+    "laptopShortcut": ["Command", "F5"]
+  },
+  {
+    "label": "Open the rotor",
+    "shortcut": ["VO", "U"],
+    "laptopShortcut": ["VO", "U"]
+  },
+  {
+    "label": "Move to next",
+    "shortcut": ["VO", "Right Arrow"],
+    "laptopShortcut": ["VO", "Right Arrow"]
+  },
+  {
+    "label": "Move to previous",
+    "shortcut": ["VO", "Left Arrow"],
+    "laptopShortcut": ["VO", "Left Arrow"]
+  },
+  {
+    "label": "Move down (into a group)",
+    "shortcut": ["VO", "Shift", "Down Arrow"],
+    "laptopShortcut": ["VO", "Shift", "Down Arrow"]
+  },
+  {
+    "label": "Move up (out of a group)",
+    "shortcut": ["VO", "Shift", "Up Arrow"],
+    "laptopShortcut": ["VO", "Shift", "Up Arrow"]
+  },
+  {
+    "label": "Move to the first item in the group",
+    "shortcut": ["VO", "Home"],
+    "laptopShortcut": ["VO", "fn", "Left Arrow"]
+  },
+  {
+    "label": "Move to the last item in the group",
+    "shortcut": ["VO", "End"],
+    "laptopShortcut": ["VO", "fn", "Right Arrow"]
+  },
+  {
+    "label": "Move to the next link",
+    "shortcut": ["VO", "Command", "L"],
+    "laptopShortcut": ["VO", "Command", "L"]
+  },
+  {
+    "label": "Move to the next heading",
+    "shortcut": ["VO", "Command", "H"],
+    "laptopShortcut": ["VO", "Command", "H"]
+  },
+  {
+    "label": "Move to the next form control",
+    "shortcut": ["VO", "Command", "J"],
+    "laptopShortcut": ["VO", "Command", "J"]
+  },
+  {
+    "label": "Move to the next form table",
+    "shortcut": ["VO", "Command", "T"],
+    "laptopShortcut": ["VO", "Command", "T"]
+  },
+  {
+    "label": "Move to the next form list",
+    "shortcut": ["VO", "Command", "X"],
+    "laptopShortcut": ["VO", "Command", "X"]
+  },
+  {
+    "label": "Move to the next form graphic",
+    "shortcut": ["VO", "Command", "G"],
+    "laptopShortcut": ["VO", "Command", "G"]
+  },
+  {
+    "label": "Click on a link of form item",
+    "shortcut": ["VO", "Space"],
+    "laptopShortcut": ["VO", "Space"]
+  },
+  {
+    "label": "Start reading",
+    "shortcut": ["VO", "A"],
+    "laptopShortcut": ["VO", "A"]
+  },
+  {
+    "label": "Stop reading",
+    "shortcut": ["Control"],
+    "laptopShortcut": ["Control"]
+  },
+  {
+    "label": "Read word",
+    "shortcut": ["VO", "W"],
+    "laptopShortcut": ["VO", "W"]
+  },
+  {
+    "label": "Read sentence",
+    "shortcut": ["VO", "S"],
+    "laptopShortcut": ["VO", "S"]
+  },
+  {
+    "label": "Read paragraph",
+    "shortcut": ["VO", "P"],
+    "laptopShortcut": ["VO", "P"]
+  },
+  {
+    "label": "Read from top to current location",
+    "shortcut": ["VO", "B"],
+    "laptopShortcut": ["VO", "B"]
+  }
+]

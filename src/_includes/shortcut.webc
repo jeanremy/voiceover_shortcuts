@@ -1,0 +1,27 @@
+
+  <li class="shortcut">
+    <p @text="label" class="shortcut__label"></p>
+    <div class="keys">
+      <key webc:for="(item, index) of keys" webc:nokeep :@item="item" :@index="index" />
+    </div>
+  </li>
+
+
+<style webc:keep>
+  .shortcut {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--grey);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .shortcut__label {
+    font-weight: 500;
+  }
+
+  .keys {
+    display: flex;
+    align-items: center;
+  }
+</style>

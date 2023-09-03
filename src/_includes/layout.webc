@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>VoiceOver shortcuts</title>
+
+		<!-- or write your bundle to a file -->
+		<link rel="stylesheet" :href="getBundleFileUrl('css')">
+		<script :src="getBundleFileUrl('js')"></script>
+	</head>
+	<body @raw="content"></body>
+</html>
