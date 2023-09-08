@@ -1,5 +1,6 @@
 :root {
   --clearGrey: #f1f1f1;
-  --grey: #DDD;
+  --grey: #ddd;
   --black: hsl(0, 0%, 0%);
+  --radius: 4px;
 }

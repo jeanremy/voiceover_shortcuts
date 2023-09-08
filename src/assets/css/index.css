@@ -1,5 +1,7 @@
-@import "_fonts.css";
-@import "_variables.css";
+@import '_reset.css';
+@import '_fonts.css';
+@import '_typography.css';
+@import '_variables.css';
 
 *,
 *:before,
@@ -14,7 +16,8 @@ body {
 
 .container {
   max-width: 69ch;
-  margin: 0 auto;
+  margin-inline: auto;
+  padding-inline: 1rem;
 }
 
 ul {
